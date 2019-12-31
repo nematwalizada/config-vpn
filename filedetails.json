@@ -110,7 +110,7 @@ aecd43ebc11385eab03662acf88cb54a
 4c179f0e8f7585743320a1ce2aeaff6b
 -----END OpenVPN Static key V1-----
 </tls-auth>"},
-{"id":1,"file":"client
+  {"id":1,"file":"client
 dev tun
 proto udp
 sndbuf 0
@@ -219,6 +219,6 @@ cc1cd9baa4762a290fd49b9a60660947
 eabaed74a46ebb97712acf0929e4d339
 30adcafa02deb159a3b54e4906a11607
 -----END OpenVPN Static key V1-----
-</tls-auth>
-"}]
+</tls-auth>"},
+    {"id":2,"file":""}]
 }
